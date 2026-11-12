@@ -1,0 +1,8 @@
+[
+ {"id":"r1","member_id":"m1","book_id":"b6","mulai":"2026-10-15","hari":14,"total":34000,"status":"selesai"},
+ {"id":"r2","member_id":"m1","book_id":"b5","mulai":"2026-10-28","hari":7,"total":12000,"status":"selesai"},
+ {"id":"r3","member_id":"m1","book_id":"b2","mulai":"2026-11-06","hari":7,"total":18000,"status":"aktif"},
+ {"id":"r4","member_id":"m1","book_id":"b1","mulai":"2026-11-09","hari":7,"total":15000,"status":"aktif"},
+ {"id":"r5","member_id":"m2","book_id":"b5","mulai":"2026-11-10","hari":7,"total":12000,"status":"aktif"},
+ {"id":"r6","member_id":"m2","book_id":"b6","mulai":"2026-11-11","hari":7,"total":17000,"status":"aktif"}
+]

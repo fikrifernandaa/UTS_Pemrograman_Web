@@ -1,0 +1,4 @@
+[
+ {"id":"m1","nama":"Rani Putri Wulandari","email":"rani.putri@mail.id","password_hash":"$2y$10$B9Qsu18N.kAWS67RjdpKmOvh/AZvLfG.HVGKqpKi76iQJaogOZFZi","peran":"member","saldo":85000},
+ {"id":"m2","nama":"Budi Santoso","email":"budi.santoso@mail.id","password_hash":"$2y$10$.ZoXVlVmRXoNQx7AnDT/sexCS4YtZ2IasB2ODxnqikAuKQy6Hbp.q","peran":"member","saldo":50000}
+]

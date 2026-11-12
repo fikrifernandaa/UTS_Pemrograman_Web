@@ -1,0 +1,10 @@
+[
+ {"id":"b1","judul":"Modern PHP","penulis":"Josh Lockhart","kategori":"PHP","harga_per_7_hari":15000,"tersedia":false,"warna":"#D2402B","teks":"#FFFFFF","tipe":"ebook"},
+ {"id":"b2","judul":"Eloquent JavaScript","penulis":"Marijn Haverbeke","kategori":"JavaScript","harga_per_7_hari":18000,"tersedia":false,"warna":"#F2B01E","teks":"#17171A","tipe":"ebook"},
+ {"id":"b3","judul":"PHP Objects, Patterns, and Practice","penulis":"Matt Zandstra","kategori":"PHP","harga_per_7_hari":22000,"tersedia":true,"warna":"#17171A","teks":"#FAF5EA","tipe":"premium"},
+ {"id":"b4","judul":"HTML and CSS: Design and Build Websites","penulis":"Jon Duckett","kategori":"HTML & CSS","harga_per_7_hari":20000,"tersedia":true,"warna":"#E9DFC8","teks":"#17171A","tipe":"ebook"},
+ {"id":"b5","judul":"JavaScript: The Good Parts","penulis":"Douglas Crockford","kategori":"JavaScript","harga_per_7_hari":12000,"tersedia":false,"warna":"#E9DFC8","teks":"#17171A","tipe":"ebook"},
+ {"id":"b6","judul":"Learning PHP, MySQL & JavaScript","penulis":"Robin Nixon","kategori":"PHP","harga_per_7_hari":17000,"tersedia":false,"warna":"#17171A","teks":"#FAF5EA","tipe":"ebook"},
+ {"id":"b7","judul":"Refactoring UI","penulis":"Adam Wathan & Steve Schoger","kategori":"Desain UI","harga_per_7_hari":25000,"tersedia":true,"warna":"#F2B01E","teks":"#17171A","tipe":"premium"},
+ {"id":"b8","judul":"Murach's PHP and MySQL","penulis":"Joel Murach & Ray Harris","kategori":"Basis Data","harga_per_7_hari":19000,"tersedia":true,"warna":"#D2402B","teks":"#FFFFFF","tipe":"ebook"}
+]
